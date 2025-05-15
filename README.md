@@ -40,14 +40,14 @@ I'm using these open-source technologies (when the API connections are fixed):
 
 ## What's Working vs. What's Not
 
-### ✅ Working in this Demo:
+### Working in this Demo:
 - Complete UI for the educational assistant
 - Mockup of conversation flow
 - Image upload interface
 - Voice input UI
 - Sample educational responses
 
-### ❌ Still Need to Fix:
+### Still Need to Fix:
 - Connection to the Whisper API for voice recognition
 - Connection to Tesseract for image processing
 - Connection to Ollama for AI responses
