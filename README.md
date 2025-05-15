@@ -4,15 +4,19 @@
 
 Hey there! This is my project for the AI-powered educational tool assignment. I've created an app that lets students learn by talking to their device and showing it images of problems they need help with.
 
-## Current Status - UI Mockup Only! 
+## Current Status - Frontend only! 
 
-**Important Note:** This is currently just a UI mockup! Getting the AI APIs working has been... challenging
+Website link - https://task3-one-ashy.vercel.app/
 
-I've spent days trying to get the backend connections working with all the AI models, but ran into some frustrating issues with local development. Rather than submit nothing, I created this interactive mockup that shows how the finished product would work.
+**If you type something in the input area, a blank page will appear (i am working on it), to exit that please refresh the page.**
+
+**Important Note:** This is currently just a frontend! Getting the AI APIs working has been challenging.
+
+I've spent long hours trying to get the backend connections working with all the AI models, but ran into some frustrating issues with local development. Rather than submit nothing, I created this interactive mockup that shows how the finished product would work.
 
 ## The Concept
 
-VoiceVision Tutor combines:
+This project combines:
 - **Voice input** (using Whisper) - so you can just ask questions naturally
 - **Image recognition** (using Tesseract OCR) - to understand diagrams, math problems, etc.
 - **AI responses** (using open-source LLMs like Llama) - to give helpful educational answers
@@ -70,4 +74,4 @@ I plan to continue working on:
 - **User-Centered** - Designed based on how students actually learn
 - **Technical** - Integrates multiple AI models (when working!)
 
-Note: I will be able to get the API's working in by tomorrow, thanks!
+Note: I will be able to get the API's working by tomorrow, thanks!
