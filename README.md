@@ -67,11 +67,4 @@ I plan to continue working on:
 2. Run `npm install`
 3. Run `npm start` to see the UI mockup
 
-## Evaluation Points
-
-- **Creativity** - Combines voice, image, and AI in one educational tool
-- **Feasibility** - All the technologies exist, just need to connect properly
-- **User-Centered** - Designed based on how students actually learn
-- **Technical** - Integrates multiple AI models (when working!)
-
 Note: I will be able to get the API's working by tomorrow, thanks!
