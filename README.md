@@ -1,4 +1,4 @@
-# Task - Reinventing Educational Interaction through Multimodal AI
+# Reinventing Educational Interaction through Multimodal AI
 
 ## What I Built
 
